@@ -1,9 +1,10 @@
+*.gz
+*ubyte
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-*.gz
-*ubyte
+
 # C extensions
 *.so
 
