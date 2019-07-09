@@ -1,3 +1,3 @@
-# Coding_Neural_Network_from_Scratch
+# Coding the Neural Network from Scratch
 
 Let's code the neural network from scratch.
